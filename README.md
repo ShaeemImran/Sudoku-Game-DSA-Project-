@@ -41,11 +41,4 @@ Output:
 Conclusion:
 This project demonstrates a strong understanding of Java programming, Java Swing GUI development, event handling, and logical validation algorithms. It combines problem-solving skills with user-friendly interface design.
 
-Future Improvements:
-* Random puzzle generation
-* Multiple difficulty levels (Easy, Medium, Hard)
-* Hint system
-* Timer and scoring system
-* Save and resume feature
-* Enhanced UI themes and animations
 
